@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[280],{280(e,i,s){e.exports=s.p+"static/media/trending-designs-in-2020.ba99803d5499cd1d5703.md"}}]);

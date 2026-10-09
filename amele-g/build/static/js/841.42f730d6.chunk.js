@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[841],{841(a,t,b){a.exports=b.p+"static/media/future-of-javascript.60b1bf635a7fbba3f7cb.md"}}]);

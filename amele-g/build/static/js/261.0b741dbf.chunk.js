@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[261],{261(s,o,a){s.exports=a.p+"static/media/boost-your-post-for-increasing-sales.a683871b84f2ae016c1c.md"}}]);

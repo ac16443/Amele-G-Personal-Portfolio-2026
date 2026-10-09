@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[470],{470(e,t,a){e.exports=a.p+"static/media/time-to-use-latest-technology-for-creating-a-website.2b8a1fe1bf042c6aa951.md"}}]);

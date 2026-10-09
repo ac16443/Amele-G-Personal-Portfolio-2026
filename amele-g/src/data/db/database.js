@@ -75,47 +75,55 @@ const database = {
     // },
   ],
   skills: [
-//     {
-//       title: "HTML5",
-//       value: 90,
+    {
+      title: "HTML5",
+      value: 90,
       
-//     },
-//     {
-//       title: "CSS3",
-//       value: 90,
-//     },
-// {
-//       title: "Bootstrap",
-//       value: 90,
-//     },
-//     {
-//       title: "Javascript",
-//       value: 90,
-//     },
-//     {
-//       title: "Angular",
-//       value: 90,
-//     },
-// {
-//       title: "NodeJS",
-//       value: 90,
-//     },
-//     {
-//       title: "ReactJS",
-//        value: 90,
-//     },
-//     {
-//       title: "Figma",
-//        value: 90,
-//     },
+    },
+    {
+      title: "CSS3",
+      value: 90,
+    },
+{
+      title: "Bootstrap",
+      value: 90,
+    },
+    {
+      title: "Javascript",
+      value: 90,
+    },
+    {
+      title: "Angular",
+      value: 90,
+    },
+{
+      title: "NodeJS",
+      value: 90,
+    },
+    {
+      title: "ReactJS",
+       value: 90,
+    },
+    {
+      title: "Figma",
+       value: 90,
+    },
   ],
   portfolios: [
+{
+      id: 0,
+      title: "Project Angular",
+      subtitle: "Used angular framework to build Self invest dashboard account at CitiBank.",
+      imageUrl: "/assets/self-invest-overview.png",
+      largeImageUrl: ["/assets/Self Invest-dashboard-overview-1.png"],
+      url: "https://online.citi.com/US/nga/citi-self-invest",
+    },
     {
       id: 1,
       title: "Angular",
       subtitle: "Self invest dashboard account at CitiBank.",
       imageUrl: "/images/angular-550x400.png",
-      largeImageUrl: ["images/angular-550x400.png"],
+      largeImageUrl: ["/assets/Self Invest-dashboard-overview-1.png"],
       url: "https://dribbble.com",
     },
     {
@@ -124,7 +132,7 @@ const database = {
       subtitle: "Self invest dashboard account at CitiBank.",
       imageUrl: "/images/typescript-550x400.png",
       largeImageUrl: [
-        "/images/typescript-550x400.png",
+        "/assets/Self Invest-dashboard-overview-1.png",
         "/images/typescript-550x400.png",
       ],
       url: "https://facebook.com",
@@ -336,15 +344,16 @@ const database = {
         graduation: "MSC",
         university: "MIU",
         details:
-          "Study software development from scratch",
+          "Graduate 2020",
       },
-      // {
-      //   id: 2,
-      //   graduation: "Bachelor of Art",
-      //   university: "Bahir Dar University ",
-      //   details:
-      //     "",
-      // },
+       {
+        id: 2,
+        year: "2004 - 2008",
+        graduation: "Bachelor of Art",
+        university: "Bahir Dar University ",
+        details:
+          "Graduate",
+      },
       
     ],
   },

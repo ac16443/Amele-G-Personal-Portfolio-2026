@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[421],{802(a,t,e){a.exports=e.p+"static/media/web-automation-with-python-language.ae6692345a7cd5c4abd3.md"}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[41],{41(a,e,o){a.exports=o.p+"static/media/markdown-html-supported-blog.02d53e4c34b245fa5b6a.md"}}]);

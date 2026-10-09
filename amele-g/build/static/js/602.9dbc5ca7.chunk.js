@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[602],{602(a,e,i){a.exports=i.p+"static/media/popular-javascript-library-in-2020.5c7e8b1b07183ae2ff49.md"}}]);

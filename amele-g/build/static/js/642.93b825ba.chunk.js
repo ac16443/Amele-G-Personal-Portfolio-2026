@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[642],{642(o,t,a){o.exports=a.p+"static/media/how-to-get-10k-instagram-followers.953a57214db083df9835.md"}}]);

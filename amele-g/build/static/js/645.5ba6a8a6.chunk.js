@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[645],{645(e,a,o){e.exports=o.p+"static/media/what-nodejs-can-do.d0a3c84c62e247e61e67.md"}}]);

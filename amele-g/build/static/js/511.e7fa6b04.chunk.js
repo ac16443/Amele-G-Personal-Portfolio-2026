@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[511],{511(t,e,o){t.exports=o.p+"static/media/think-out-of-the-box.edd04b3c0da757bbd2ab.md"}}]);

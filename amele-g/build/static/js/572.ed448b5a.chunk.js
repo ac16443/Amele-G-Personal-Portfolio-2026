@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkamele_g_portfolio||=[]).push([[572],{572(e,a,t){e.exports=t.p+"static/media/uiux-design-starter-with-adobe-xd.4fe82ac40c7474feb04a.md"}}]);

@@ -25,12 +25,13 @@ function Home({ lightMode }) {
           content="Amelework React Personal Portfolio Template Homepage"
         />
       </Helmet>
-     {/* <img className="col-12 col-sm-12 col-md-12 col-lg-12 col-el-12" src="./assets/banner-1.png" alt="banner profile image"  /> */}
+     {/* <img className="col-12 col-sm-12 col-md-12 col-lg-12 col-el-12" src="./assets/coding -with-coffee.png" alt="banner profile image"  /> */}
       <Suspense fallback={<Spinner />}>
         <div className="mi-home-area mi-padding-section">
           <Particle lightMode={lightMode} />
           <div className="container">
             <div className="row justify-content-center">
+<img className="col-12 col-sm-12 col-md-12 col-lg-12 col-el-12" src="./assets/coding -with-coffee.png" alt="banner profile image" style={{width:"60%"}}  />
               <div className="col-lg-10 col-12">
                 <div className="mi-home-content">
                   <h1>
